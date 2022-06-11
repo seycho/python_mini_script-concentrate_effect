@@ -1,0 +1,6 @@
+pathInput,test_3_picture.png
+pathOutput,test_3_blur.png
+xLocationRatio,0.3
+yLocationRatio,0.41
+rIntensity,100
+noiseDivide,50
